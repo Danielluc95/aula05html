@@ -1,0 +1,30 @@
+p{
+    background-color: red;
+    margin-bottom: 5px;
+    width: 30%;
+}
+a{
+    background-color: aqua;
+    display: block;
+    margin-bottom: 5px;
+    width: 20%;
+}
+.d1{
+    display: flex;
+    background-color: blue;
+    width: 30%;
+    flex-wrap: wrap;
+}
+img{
+    width: 100%;
+}
+
+.pequeno{
+    width: 20%;
+    margin-left: 2%;
+    border: 2px solid red;
+}
+.grande{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,20 @@
+elemento{
+    color: red; -> muda a cor do texto
+    font-size: 30px; -> muda o tamanho do texto
+    font-weight: 900; -> aplica negrito no texto
+    font-family: sans-serif -> muda a fonte do texto
+    background-color: red; -> muda a cor de fundo
+    width: 50%; -> largura
+    height: 500px; -> altura
+    padding-top: 50px; -> afasta o elemento em cima (dentro)
+    padding-botton: 500px; -> afasta o elemento em baixo (dentro)
+    padding-left: 50px; -> afasta o elemento na esquerda (dentro)
+    padding-right: 50px; -> afasta o elemento na direita (dentro)
+    margin-top: 50px; -> afasta o elemento em cima (fora)
+    margin-botton: 500px; -> afasta o elemento em baixo (fora)
+    margin-left: 50px; -> afasta o elemento na esquerda (fora)
+    margin-right: 50px; -> afasta o elemento na direita (fora)
+    border: 5px solid blue; -> espessura, tipo e cor
+
+}
+ 

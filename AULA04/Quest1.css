@@ -1,0 +1,20 @@
+.pequeno{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 1%;
+    border: 5px solid red;
+
+
+
+}
+.Grande{
+    display: flex;
+    
+}
+.p1{
+    
+    width: 100%;
+    
+}
+
+
